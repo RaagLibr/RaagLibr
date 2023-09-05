@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 there, I'm Ragini Yadav</h1>
 <h3 align="center">A enthusiast web developer and learner.</h3>
 
-<div align="right" style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
+<img src="" align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47vahe62q8tno52s18xyduh84c191ani9tyjy86jra&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Figma and advance js**
 
