@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋 there, I'm Ragini Yadav</h1>
+<h1 ![github](https://github.com/RaagLibr/RaagLibr/assets/101311420/8b8a989a-51e2-49a2-bc02-9eaf20063645)
+
+  align="center">Hi 👋 there, I'm Ragini Yadav</h1>
 <h3 align="center">A enthusiast web developer and learner.</h3>
 
 
