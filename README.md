@@ -92,3 +92,6 @@ projects                     4+                  █░░░░░░░░░�
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raaglibr&" alt="raaglibr" /></p>
 
 [![Analytics](https://ga-beacon.appspot.com/UA-XXXXX-X/welcome-page)](https://github.com/igrigorik/ga-beacon)
+
+{<img src="https://ga-beacon.appspot.com/UA-XXXXX-X/welcome-page" />}[https://github.com/igrigorik/ga-beacon]
+
