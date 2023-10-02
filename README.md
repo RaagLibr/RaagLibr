@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **raginiy071@gmail.com**
 
-- 📄 Know about my experiences [email me](email me)
+- 📄 Know about my experiences email me.
 
 - ⚡ Fun fact **I am an introvert**
 
