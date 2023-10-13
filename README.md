@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **My work**
 
-- 📫 How to reach me **raginiy071@gmail.com**
+- 📫 How to reach me **raginiy071+github@gmail.com**
 
 - 📄 Know about my experiences email me.
 
