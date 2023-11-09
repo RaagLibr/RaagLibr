@@ -1,6 +1,4 @@
 
-![github](https://github.com/RaagLibr/RaagLibr/assets/101311420/b6a01f42-a9dc-4793-9485-5099de5d40ad)
-
  <h1 align="center">Hi 👋 there, I'm Ragini Yadav</h1>
 <h3 align="center">A enthusiast web developer and learner.</h3>
 
