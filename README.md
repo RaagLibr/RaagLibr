@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaglibr&label=Profile%20views&color=0e75b6&style=flat" alt="raaglibr" /> </p>
 
-- 🌱 I’m currently learning **Figma and advance js**
+- 🌱 I’m currently learning **...**
 
 - 👯 I’m looking to collaborate on **your project if you want**
 
@@ -75,8 +75,7 @@
 <br>
 💬 Languages:<br>
 JavaScript                   1 hrs 26 mins       ██████████████░░░░░░░░░░   61.97%  <br>
-java                         1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.3%  <br>
-Python                       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%  <br>
+java                         1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.3%   <br>
 projects                      4+                  █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%  <br>
               
 <br>
