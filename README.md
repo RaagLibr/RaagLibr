@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **raginiy071+github@gmail.com**
 
-- 📄 Know about my experiences email me.
+<!-- 📄 Know about my experiences email me.  -->
 
 - ⚡ Fun fact **I am an introvert**
 
