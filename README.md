@@ -12,8 +12,7 @@
 
   -✅ I’m looking to collaborate on **your project if you want**
 
-- 👨‍💻 All of my projects are available at [https://mypersonalportfolio1.000webhostapp.com/index.html](https://mypersonalportfolio1.000webhostapp.com/index.html)
-
+- 👨‍💻 All of my projects are available Here.
 - 💬 Ask me about **My work**
 
 - 📫 How to reach me **raginiy071+github@gmail.com**
