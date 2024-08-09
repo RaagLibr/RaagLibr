@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi 👋 there, I'm Ragini Yadav</h1>
-<h3 align="center">A enthusiast web developer.</h3>
+<h3 align="center"></h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47vahe62q8tno52s18xyduh84c191ani9tyjy86jra&ep=v1_gifs_related&rid=giphy.gif&ct=g">
