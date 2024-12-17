@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaglibr&label=Profile%20views&color=0e75b6&style=flat" alt="raaglibr" /> </p>
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning **Spring Boot**
 
   -✅ I’m looking to collaborate on **your project if you want**
 
@@ -16,7 +16,7 @@
   
 - 💬 Ask me about **My work**
 
-- **Portfolio Website** https://raaglibr.github.io/RaginiPortfolio.github.io/
+- **Portfolio Website** https://raaglibr.github.io/WebResume.github.io/
 
 - 📫 How to reach me **raginiy071+github@gmail.com**
 
