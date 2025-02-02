@@ -83,6 +83,18 @@ java                         1 hr 9 mins         ███░░░░░░░�
 projects                      4+                  █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%  <br>
               
 <br>
+
+<div class="heatMapCard_head__QlR7_">
+        <!-- Content of the heatmap card -->
+        <div class="heatMapHeader_head__HLQSQ">
+            <!-- Content of the header -->
+        </div>
+        <div class="heatMap_head__L_Rhl">
+            <!-- Content of the heatmap -->
+        </div>
+    </div>
+
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raaglibr&show_icons=true&locale=en&layout=compact" alt="raaglibr" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raaglibr&show_icons=true&locale=en" alt="raaglibr" /></p>
