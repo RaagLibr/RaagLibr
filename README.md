@@ -83,8 +83,8 @@ java                         1 hr 9 mins         ███░░░░░░░�
 projects                      4+                  █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%  <br>
               
 <br>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/raginiy071?ext=heatmap)
+<div style="height:100rem;">![Leetcode Stats](https://leetcard.jacoblin.cool/raginiy071?ext=heatmap)
+</div>
 <br>
 
 
