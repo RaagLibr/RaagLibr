@@ -105,6 +105,10 @@ projects                      4+                   █░░░░░░░░�
 ## 📊 GitHub Activity
 
 ![GitHub Contribution Calendar](https://ghchart.rshah.org/1f1f1f/RaagLibr)
+
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaagLibr&theme=github-dark)
 <br>
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raagLibr&theme=github-dark)
 
