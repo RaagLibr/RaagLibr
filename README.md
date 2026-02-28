@@ -104,6 +104,6 @@ projects                      4+                   █░░░░░░░░�
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raaglibr&show_icons=true&locale=en&layout=compact" alt="raaglibr" /></p><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raaglibr&show_icons=true&locale=en" alt="raaglibr" /></p>
 -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raaglibr&show_icons=true&locale=en" alt="raaglibr" /></p>
+
