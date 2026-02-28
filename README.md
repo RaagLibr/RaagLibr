@@ -101,21 +101,11 @@ projects                      4+                   █░░░░░░░░�
 ![Leetcode Stats](https://leetcard.jacoblin.cool/raginiy071?ext=heatmap)
 -->
 <br>
-## 📅 GitHub Activity
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/0d1117/RaagLibr)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaagLibr&theme=tokyo-night)
 
 ## 📊 GitHub Activity
 
-![GitHub Contribution Calendar](https://ghchart.rshah.org/0d1117/RaagLibr)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaagLibr&theme=tokyo-night)
-
-## 📊 GitHub Activity
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/0d1117/raagLibr)
-
+![GitHub Contribution Calendar](https://ghchart.rshah.org/1f1f1f/RaagLibr)
+<br>
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raagLibr&theme=github-dark)
 
 
