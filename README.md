@@ -105,10 +105,13 @@ projects                      4+                   █░░░░░░░░�
 ## 📊 GitHub Activity
 
 ![GitHub Contribution Calendar](https://ghchart.rshah.org/1f1f1f/RaagLibr)
+![GitHub Contribution Calendar](https://ghchart.rshah.org/000000/RaagLibr)
+![GitHub Activity](https://ghchart.rshah.org/0a0a0a/RaagLibr)
+![GitHub Activity](https://ghchart.rshah.org/0f1423/RaagLibr)
+![GitHub Activity](https://ghchart.rshah.org/1b1b1b/RaagLibr)
+![GitHub Activity](https://ghchart.rshah.org/15172c/RaagLibr)
+![GitHub Activity](https://ghchart.rshah.org/090a0f/RaagLibr)
 
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaagLibr&theme=github-dark)
 <br>
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raagLibr&theme=github-dark)
 
