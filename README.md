@@ -103,22 +103,19 @@ projects                      4+                   █░░░░░░░░�
 <br>
 ## 📅 GitHub Activity
 
-![GitHub Contribution Calendar](https://ghchart.rshah.org/0d1117/raagLibr)
+![GitHub Contribution Calendar](https://ghchart.rshah.org/0d1117/RaagLibr)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaagLibr&theme=tokyo-night)
 
-<br>
-## 📈 Contribution Activity
+## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raagLibr&theme=github-dark)
+![GitHub Contribution Calendar](https://ghchart.rshah.org/0d1117/RaagLibr)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaagLibr&theme=github-dark)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaagLibr&theme=tokyo-night)
 
 ## 📊 GitHub Activity
 
 ![GitHub Contribution Calendar](https://ghchart.rshah.org/0d1117/raagLibr)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raagLibr&theme=github-dark)
-## 📅 GitHub Activity
 
-![GitHub Contribution Calendar](https://ghchart.rshah.org/RaagLibr)
 
