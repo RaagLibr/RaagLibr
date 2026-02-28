@@ -103,6 +103,5 @@ projects                      4+                   █░░░░░░░░�
 <br>
 
 ## 📊 GitHub Activity
-![GitHub Activity](https://ghchart.rshah.org/15172c/RaagLibr)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raagLibr&theme=github-dark)
 
